@@ -1,0 +1,20 @@
+Task 2 :
+
+dari kasus stnk yang ini buat definisi :
+foto yang bagus kaya apa,kualitas yang acceptable kaya apa dan 
+hasilnya seberapa bagus hasil stnk ini.
+
+Key Notes : 
+
+Foto yang diperoleh dalam stnk ( Object )
+Tidak Terdapat cahaya (Properti)
+Tidak bergelombang (Properti)
+Foto yang tegak lurus (Properti)
+Menutupi text STNK (Something Happens)
+
+Definisi : Foto yang diperoleh dalam stnk dari kasus tidak terdapat cahaya, tidak bergelombang dan foto yang tegak lurus tidak dapat menutupi text stnk.
+
+
+Statement : Untuk Foto yang diperoleh dalam stnk dari kasus tidak terdapat cahaya, tidak bergelombang dan foto yang tegak lurus tidak dapat menutupi text stnk.
+
+~ Terdapat sebuah kasus dari foto yang diperoleh dari kasus tidak terdapat cahaya, tidak bergelombang dan foto yang tegak lurus dapat menutupi text stnk.

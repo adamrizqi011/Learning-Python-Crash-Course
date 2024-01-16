@@ -1,0 +1,103 @@
+,check,id,Confidences,Sentimentt,Kalimat,Sentimen Manusia,Kalimat utuh,Typo,Slang Word,Mix Languange,Ambigu,Cuma kata,Terlalu Panjang,Sarkas/Satire
+0,True,0,0.9841673970222473,negative,"Apakah aku harus membenturkan kepalamu ke tembok, agar kau menyadari kesalahan yang kau buat itu?",negative,True,False,False,False,False,False,False,True
+1,True,1,0.9167790412902832,neutral,Saya ingin membandingkan dengan asuransi perusahaan lain,neutral,True,False,False,False,False,False,False,False
+2,True,2,0.9971188306808472,neutral,Apakah anda bisa membantu saya menghubungkan rekening saya ke perbankan mobile?,neutral,True,False,False,False,False,False,False,False
+3,True,3,0.9955984354019165,neutral,Bagaimana saya mengakses rekening bank saya secara online?,neutral,True,False,False,False,False,False,False,True
+4,True,4,0.5157608985900879,neutral,Apa kamu tidak memiliki baju lain? setiap kali kita pergi kau selalu mengenakan pakaian yang sama,negative,True,False,False,False,False,False,False,False
+5,True,5,0.8455995321273804,negative,Bro woles aja bro ngopi dulu kita kerjanya lanjut nanti aja,positive,True,False,True,False,False,False,False,False
+6,True,6,0.994951605796814,positive,Rokum lu bagus banget bro,positive,True,False,True,False,False,False,False,False
+7,True,7,0.8603492975234985,positive,Ingga,neutral,False,True,False,False,False,True,False,False
+8,True,8,0.952538251876831,negative,Rajin sekali penghuni rumah ini sampai kaca penuh dihiasi oleh debu.,negative,True,False,False,False,False,False,False,True
+9,True,9,0.9886549711227417,negative,"Dari tadi tidak ada yang menjawab salamku, apakah telinga kalian hanya berupa pajangan saja?",negative,True,False,False,False,False,False,False,True
+10,True,10,0.9438421726226807,neutral,Apotik yang ogut datangi tadi sudah close bro,positive,True,True,True,True,False,False,False,False
+11,True,11,0.9976291060447693,neutral,Saya ingin membuka rekening bank,positive,True,False,False,False,False,False,False,False
+12,True,12,0.9956412315368652,negative,"Kamu sekarang buta warna ya? Sudah tahu tadi lampu merah, eh kau malah seenaknya menerobos.",negative,True,False,False,False,False,False,False,False
+13,True,13,0.9600453972816467,negative,You besok sabi ga datang kerumah gweh?,neutral,True,True,True,True,False,False,False,False
+14,True,14,0.9912484884262085,neutral,Kak kirim pap terbaru dong,positive,True,True,True,True,False,False,False,False
+15,True,15,0.9950141310691833,neutral,Saya ingin menawarkan anda promosi asuransi jiwa,positive,True,False,False,False,False,False,False,False
+16,True,16,0.8948670625686646,neutral,Oh sepertinya saya tidak bisa membelinya maaf namun terima kasih atas tawarannya.,negative,True,False,False,False,False,False,False,False
+17,True,17,0.9965409636497498,positive,"Sudah punya squishy yang lembut dan wangi? Tidak hanya lucu, squishy imut yang satu ini juga cocok untuk menambah koleksimu!",positive,True,False,False,False,False,False,False,False
+18,True,18,0.6212975382804871,neutral,Harga spesial! Dapatkan promo cashback sebesar 20% jika belanja sebesar Rp150.000.,positive,True,False,False,True,False,False,False,False
+19,True,19,0.9922046661376953,neutral,"Setiap membeli makanan minimal Rp75.000, dapatkan voucher diskon listrik sebesar Rp25.000.",positive,True,False,False,False,False,False,False,False
+20,True,20,0.6209601163864136,positive,Gunakan sampo kami secara rutin minimal sekali dalam seminggu. Ketombe pun akan berangsur-angsur hilang dari kulit kepalamu,positive,True,False,False,False,False,False,False,False
+21,True,21,0.6966889500617981,neutral,Nikmati diskon hingga 50% dari tanggal 1 sampai 10 Januari 2022. Segera dapatkan produknya selama persediaan masih ada!,neutral,True,False,False,False,False,False,False,False
+22,True,22,0.7775810360908508,positive,"Deterjen ini dibuat untuk dapat menghilangkan noda membandel pada pakaian. Cukup kucek sedikit, nodanya akan cepat menghilang!",positive,True,False,False,False,False,False,False,False
+23,True,23,0.9479791522026062,negative,Dia memotong daging dengan pisau yang tumpul,neutral,True,False,False,False,True,False,False,False
+24,True,24,0.9840982556343079,neutral,Dia datang ke sini untuk memberi tahu,neutral,True,False,False,False,True,False,False,False
+25,True,25,0.9975812435150146,neutral,Dosen Asma sedang makan malam bersama keluarga,neutral,True,False,False,False,True,False,False,False
+26,True,26,0.7183651924133301,positive,"Baik Maria, alasan saya menghubungi Anda adalah untuk membicarakan bagaimana Anda bisa melindungi diri sendiri dan keluarga tercinta apabila terjadi sesuatu yang mengharuskan Anda berhenti dari pekerjaan saat ini. Artinya, Anda kehilangan sumber pendapatan setelah terjadinya hal yang tidak diinginkan. Pada dasarnya, memang tidak ada manusia yang ingin terkena musibah namun hidup sungguh tidak bisa kita prediksi. Kecelakaan atau sakit yang secara tiba-tiba mungkin mengharuskan Anda untuk beristirahat dari pekerjaan dalam hitungan minggu atau bahkan beberapa bulan. Melalui proteksi pendapatan atau income, Anda akan tetap mendapatkan pendapatan sebagaimana biasanya meski dalam kondisi tidak dapat bekerja. Proteksi tersebut memungkinkan Anda dan keluarga tersayang fokus pada proses penyembuhan tanpa harus mengkhawatirkan kondisi finansial. Apakah Anda bersedia untuk membicarakan lebih lanjut?",neutral,True,False,False,False,False,False,True,False
+27,True,27,0.9947892427444458,negative,Aku tak heran jika dia gagal ujian. Otak dungu seperti dia tak akan mampu lulus ujian tanpa mencontek dan bantuan dari orang lain.,negative,True,False,False,False,False,False,False,True
+28,True,28,0.9868099689483643,negative,Tak sudi aku tinggal di gubuk reyot ini. Mana banyak nyamuk lagi!,negative,True,False,False,False,False,False,False,True
+29,True,29,0.9959154725074768,negative,Dia hanyalah sampah masyarakat yang tak berguna!,negative,True,False,False,False,False,False,False,True
+30,True,30,0.9685830473899841,neutral,Dalam musyawarah itu menghasilkan lima kesepakatan yang harus dipatuhi bersama,positive,False,False,False,False,False,False,False,False
+31,True,31,0.989007830619812,positive,"Produk kami memang murah, tapi bisa bersaing dengan produk pesaing",positive,True,False,False,False,False,False,False,False
+32,True,32,0.9948258996009827,neutral, Dapatkan potongan biaya kirim Rp.10.000 untuk pembelian minuman Rp.50.000,positive,True,False,False,False,False,False,False,False
+33,True,33,0.9888827204704285,neutral,Setiap pembelian minuman minimal Rp100 ribu dapatkan 1 voucher yang bisa dituker dengan 1 merchandise dari kita.,positive,True,False,False,True,False,False,False,False
+34,True,34,0.9753215312957764,neutral,Dapatkan harga khusus dari kami jika Anda beli satu kardus kerupuk hari ini.,positive,True,False,False,False,False,False,False,False
+35,True,35,0.8338794708251953,neutral,Gelas cantik edisi khusus ini bisa kamu dapatkan hanya dengan membeli menu paket besar senilai Rp150 ribu,positive,True,False,False,False,False,False,False,False
+36,True,36,0.8619654178619385,neutral,Dapatkan paket perawatan kulit terlengkap dari pagi hingga sore hanya dengan biaya sebesar Rp 115.000 saja,positive,True,False,False,False,False,False,False,False
+37,True,37,0.995909571647644,negative,Otakmu itu sudah bukan otak manusia lagi. Otakmu itu sudah jadi otak udang!,negative,True,False,False,False,False,False,False,True
+38,True,38,0.8071998357772827,neutral,"Jika Anda tidak puas dengan produk kami, Anda akan mendapat garansi uang kembali",neutral,True,False,False,False,False,False,False,False
+39,True,39,0.9775294065475464,neutral,"Jika Anda mendaftar sekarang, Anda akan mendapatkan penawaran eksklusif saat ini juga",negative,True,False,False,False,False,False,False,False
+40,True,40,0.9420716166496277,neutral,Saya memutuskan untuk tetap netral dalam pemilihan umum kali ini,neutral,True,False,False,False,False,False,False,False
+41,True,41,0.9268276691436768,negative,Sopan sekali pakaian yang kamu kenakan hingga aku merasa malu melihatnya,negative,True,False,False,False,False,False,False,True
+42,True,42,0.951948881149292,positive,Saya sangat suka dengan penawaran produk asuransi tersebut saya berminat untuk bergabung,positive,True,False,False,False,False,False,False,False
+43,True,43,0.9894574284553528,negative,Maaf tetapi saya tidak tertarik bergabung dengan asuransi sama sekali,negative,True,False,False,False,False,False,False,False
+44,True,44,0.9959601759910583,neutral,"Saya disini ingin menawarkan produk asuransi kesehatan, apakah ibu memiliki waktu?",neutral,True,False,False,False,False,False,False,False
+45,True,45,0.9212340712547302,neutral,"Honestly, aku kemarin pigi shopping sama bestie.",positive,True,True,True,True,False,False,False,False
+46,True,46,0.9969303011894226,neutral,Saya menelepon untuk memberitahukan kalau perusahaan kami ingin menawarkan beberapa polis yang bisa bapak dapatkan secara gratis.,neutral,True,False,False,False,False,False,False,False
+47,True,47,0.9932829141616821,neutral,"Saya sudah punya asuransi yang saya beli sekaligus saat membeli mobil. Jadi, maaf saya tidak tertarik.",negative,True,False,False,False,False,False,False,False
+48,True,48,0.99355548620224,positive, Saya lebih suka berinvestasi dalam produk asuransi yang lainnya karena saya masih punya banyak waktu dan masih muda. Rasanya masih belum butuh asuransi kesehatan.,negative,True,False,False,False,False,False,False,False
+49,True,49,0.9945888519287109,neutral,Saya ingin membuka rekening bank bagaimana caranya ya?,neutral,True,False,False,False,False,False,False,False
+50,True,50,0.9822558164596558,negative,"Saya sering mendengar hal buruk tentang asuransi, jadi saya takut untuk bergabung",negative,True,False,False,False,False,False,False,False
+51,True,51,0.6516224145889282,neutral,"Tanpa diduga, tiba-tiba dia melempar senyumnya padaku",positive,True,False,False,False,True,False,False,False
+52,True,52,0.9910538792610168,neutral,Bicarakan Kebutuhan Asuransi Anda dengan Kami!,neutral,True,False,False,False,False,False,False,False
+53,True,53,0.9962918758392334,neutral,Riana sedang pergi ke taman hiburan flora dan fauzan untuk liburan keluarga,positive,True,True,False,False,False,True,False,False
+54,True,54,0.9525023102760315,negative,"Oks, mau pergi kemans",positive,True,False,True,False,False,False,False,False
+55,True,55,0.9967690706253052,neutral,Anak muda yang misterius itu ternyata ingin mendaftar insuransi kesehatan,neutral,True,False,False,False,True,False,False,False
+56,True,56,0.9905431866645813,neutral,Saya ingin mendaftar bank dan tidak ingin menggunakan perbankan mobile,neutral,True,False,False,False,False,False,False,False
+57,True,57,0.9961925745010376,neutral,"Selamat sore, maaf apakah Ibu mempunyai rekening atm atau tidak?",positive,True,False,False,False,False,False,False,False
+58,True,58,0.9970924854278564,negative,"Bapak mau membeli hp, tadi ke toko awal bagus bagus banget tapi buat di toko ini jelek semuanya",negative,True,False,False,False,False,False,False,False
+59,True,59,0.9882690906524658,neutral,"bro gua mau buat rekening baru ke bank nih, tapi sans aja gausah buru buru juga",positive,True,True,True,False,False,False,False,False
+60,True,60,0.9935517311096191,positive,"Biaya admin untuk rekening bank tersebut tidak terlalu mahal, lumayan lah",neutral,True,False,True,False,False,False,False,False
+61,True,61,0.9688591361045837,neutral,Ferry bekerja sebagai sales bank dan menawarkan pendaftaran rekening bank dengan iming iming mendapatkan uang ,positive,True,False,True,False,False,False,False,False
+62,True,62,0.9885607361793518,neutral,Anita pergi ke bank karena ingin memperbaiki atm yang terblokir,neutral,True,False,False,False,False,False,False,False
+63,True,63,0.7842375636100769,neutral,Zara ketika berjalan di sebuah mall diberhentikan sales karena dipaksa untuk mendengar penawaran,negative,True,False,False,False,True,False,False,False
+64,True,64,0.9749636650085449,neutral,"Hendra ada task yang penting hari ini, jadi buat nasabah ini biar saya aja yang handle masalahnya",positive,True,False,True,True,False,False,False,False
+65,True,65,0.9037736058235168,neutral,Bro lookit gua dong. Kira kira baju gua gimana hari ini?,neutral,True,False,True,False,False,False,False,False
+66,True,66,0.9907209873199463,neutral,"Eh nad, ada waktu free ga nanti malam?",neutral,True,False,True,True,False,False,False,False
+67,True,67,0.863857090473175,neutral,"Maaf mbak ini untuk biayanya, “Program “Happy English” tersedia dalam 3 paket, yaitu paket A dengan rincian biaya Rp. 1.800.000 untuk untuk 8 kali pertemuan, sudah termasuk seragam, modul, peralatan tulis dan snack, paket B dengan rincian biaya Rp. 4.800.000 untuk 24 kali pertemuan, sudah termasuk seragam, modul, alat tulis dan snack, terakhir ada paket C seharga Rp. 7.500.000 untuk 48 kali pertemuan sudah termasuk seragam, modul, alat tulis, snack, dan biaya outbound di akhir program",positive,True,False,False,True,False,False,True,False
+68,True,68,0.9979618787765503,neutral,Rama sedang melakukan proses transaksi jual beli dengan calon penjual hp secara cod hari ini,positive,True,False,False,False,False,False,False,False
+69,True,69,0.8357902765274048,negative,Anisah menjadi teller bank dan mengalami kejadian mengerikan yaitu kekurangan uang nasabah sebesar 200.000 kemarin sore,neutral,True,False,False,True,True,False,False,False
+70,True,70,0.9928528666496277,neutral,Aku pergi ke bank hari ini,positive,True,False,False,False,False,False,False,False
+71,True,71,0.9970064759254456,neutral,"Tadi pagi ada sales menghubungi aku, mereka menawarkan tabungan yang sama dengan deposito",positive,True,False,False,False,False,False,False,False
+72,True,72,0.9960809350013733,neutral,Customer service bank membantu nasabah yang ingin membuka tabungan rekening bank ,positive,True,False,False,True,False,False,False,False
+73,True,73,0.9735836386680603,neutral,Jingga membaca berita yang popular hari ini tentang perkembangan ekonomi indonesia ,positive,True,False,False,False,False,False,False,False
+74,True,74,0.9969674944877625,negative,Saya menghubungi salah satu pihak asuransi mobil untuk claim tetapi respond mereka sangat brengsek sekali,negative,True,False,False,True,False,False,False,False
+75,True,75,0.9967401623725891,neutral,"Mas, untuk netflix harganya sebesar 42.000 bisa di transfer melalui mbanking ya",positive,True,False,False,False,False,False,False,False
+76,True,76,0.9818226099014282,negative,"Asuransi itu kontraknya panjang ya, aku nggak yakin bisa komitmen selama itu",negative,True,False,False,False,False,False,False,False
+77,True,77,0.7847006320953369,neutral,Apa kabar?,positive,False,False,False,False,False,False,False,False
+78,True,78,0.997189462184906,neutral,Bapak mau mendepositkan cash atau check?,positive,False,False,False,False,False,False,False,False
+79,True,79,0.9620786309242249,neutral,"Pak, uang hari ini mau dimasukkan ke rekening yang mana?",positive,True,False,False,False,False,False,False,False
+80,True,80,0.9979908466339111,neutral,Andi mengambil nomor antrian saat ingin mendaftar bank kemarin pagi,positive,True,False,False,False,False,False,False,False
+81,True,81,0.9982477426528931,neutral,Kiki mendatangi bank untuk transfer ke rekening yang sama hari ini,positive,True,False,False,False,False,False,False,False
+82,True,82,0.9970622658729553,neutral,Lydia membantu nasabah yang ingin menghubungkan ke mobile banking,positive,True,False,False,False,False,False,False,False
+83,True,83,0.9956614375114441,negative,Kamu tidak membantu nasabah dengan benar kemarin,negative,True,False,False,False,False,False,False,False
+84,True,84,0.994856595993042,negative,"Dia melakukan kesalahan yang paling buruk, tidak bisa dimaafkan",negative,True,False,False,False,False,False,False,False
+85,True,85,0.9969518184661865,neutral,Bank officer staff mendatangi nasabah yang mengalami masalah saat pembukaan rekening hari ini,positive,True,False,False,False,False,False,False,False
+86,True,86,0.9584542512893677,negative,Bank Officer Andre yang gemuk itu tidak bisa datang hari ini,negative,True,False,False,False,True,False,False,False
+87,True,87,0.9807687401771545,negative,Anjing menggongong ketika ada orang asing di depan rumah ,positive,True,False,False,False,False,False,False,False
+88,True,88,0.9930282235145569,neutral,Satpam memberikan informasi kepada nasabah di bank,positive,True,False,False,False,False,False,False,False
+89,True,89,0.9925365447998047,negative,Kegagalan proyek itu karena perancangan yang tidak mantap,negative,False,False,False,False,False,False,False,False
+90,True,90,0.9942637085914612,negative,Kegagalan mendapatkan konsumen itu karena persiapan yang tidak matang,negative,False,False,False,False,False,False,False,False
+91,True,91,0.9864065051078796,negative,Kegagalan proyek itu terjadi karena perancangan yang tidak mantap,negative,True,False,False,False,False,False,False,False
+92,True,92,0.9883422255516052,negative,Kegagalan mendapatkan konsumen itu terjadi karena persiapan yang tidak matang,negative,True,False,False,False,False,False,False,False
+93,True,93,0.9859223365783691,negative,"Kau tak pernah diajari cara mengucapkan terima kasih ya? Kamu sudah dia bantu, tapi kamu malah mengabaikan dia",negative,True,False,False,False,False,False,False,True
+94,True,94,0.9708548188209534,negative,Tukang parkir itu apa tidak melihatku yang berada di depannya? Apa dia buta? Aku membutuhkan pertolongan,negative,False,False,False,False,False,False,False,True
+95,True,95,0.9909421801567078,neutral,Para nasabah itu menunggu giliran untuk di panggil teller bank,neutral,True,False,False,False,False,False,False,False
+96,True,96,0.9975327253341675,neutral,Karyawan perusahaan ekonomi membuat aplikasi transaksi pembayaran tahun lalu,positive,True,False,False,False,False,False,False,False
+97,True,97,0.9726355075836182,neutral,Dafa melakukan hiking di pegunungan rinjani dan bertemu babi hutan ganas sore hari,neutral,True,False,False,True,False,False,False,False
+98,True,98,0.9488092064857483,neutral,"Ibu nurul, saya minta kesediaan waktu ibu untuk menjelaskan produk kami. Di bank XYZ, kami memiliki 3 produk tabungan, yaitu Tabungan Premium, Tabungan Silver dan yang satu lagi adalah dari program pemerintah yaitu Tabungan Ku. Hanya dengan Rp.300.000 Ibu Nurul sudah bisa membuka rekening Tabungan premium. Untuk setoran tunai berikutnya minimal Rp. 50.000 Ibu Nurul bisa melakukan secara online di seluruh Cabang/Capem/Kantor Kas Bank XYZ. Sedangkan untuk Tabungan Silver setoran awal min. Rp. 100.000,-, dan Tabungan Ku dengan setoran awal Rp. 20.000. Selain itu, dengan menggunakan kartu ATM Bank XYZ, Ibu Nurul dapat melakukan berbagai macam transaksi. Untuk transaksi financial, Ibu Nurul dapat melakukan tarik tunai, transfer antar bank atau antar rekening Bank XYZ. Untuk transaksi non financial, Ibu Nurul dapat melakukan cek saldo dan informasi mutasi rekening. Sekarang, Ibu Nurul tidak perlu repot untuk melakukan pembayaran tagihan bulanan, seperti tagihan listrik, telpon, premi asuransi, pembayaran polyja atau aetra. Semuanya dapat Ibu lakukan dengan menggunakan kartu ATM Bank XYZ. Dan juga Ibu Nurul dapat melakukan pembelanjaan isi ulang pulsa, pembelian tiket perjalanan, dan tiket Blitzmegaplex. Selain menggunakan ATM Bank XYZ, Ibu Nurul dapat melakukan pengecekan saldo rekening atau mutasi rekening Ibu melalui Call Center Bank XYZ 24 jam di nomor 500351. Selain itu, jika ibu Nurul mengalami kejadian yang tidak diinginkan seperti kartu ATM hilang atau tertelan, saldo terdebet atau ada permasalahan dengan rekening Ibu, Ibu Nurul juga dapat menghubungi call center Bank XYZ untuk penanganan yang lebih cepat. Jika Ibu Nurul sudah mengerti dan setuju tentang fitur dan biaya dari produk yang Ibu pilih maka silahkan untuk mengisi formulir pembukaan rekening.
+",positive,False,False,False,False,False,False,True,False
+99,True,99,0.829412043094635,neutral,Para peserta trekking jika menemukan bagas atau babi ganas di jalur pendakian gunung salak harap berlindung di pohon,positive,True,False,False,False,True,False,False,False
+100,True,100,0.997684121131897,neutral,Hutao mendaftar rekening bank dengan sales di mall,positive,True,False,False,False,False,False,False,False

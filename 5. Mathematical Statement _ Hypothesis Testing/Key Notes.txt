@@ -1,0 +1,26 @@
+Task 2 :
+
+dari kasus stnk yang ini buat definisi :
+Definisi foto yang bagus kaya apa,
+Definisi kualitas yang acceptable kaya apa dan 
+Statement : hasilnya seberapa bagus hasil stnk ini.
+
+
+Foto bagus kaya apa :
+Definisi : Foto yang diperoleh dalam stnk dari kasus tidak terdapat noise yaitu tidak bercahaya, tidak bergelombang dan foto yang tegak lurus.
+
+Kualitas yang acceptable kaya apa
+Definisi : 
+Dapat menampilkan value sesuai dengan ground truth dengan akurasi 80%
+
+Hasilnya seberapa bagus hasil stnk ini
+Statement :
+Jika foto yang diperoleh dalam STNK dari kasus tidak terdapat noise yaitu tidak bercahaya, tidak bergelombang dan foto yang tegak lurus maka dapat menampilkan value sesuai dengan ground truth dengan akurasi 80%
+
+~ Terdapat foto yang diperoleh dalam STNK dari kasus tidak terdapat noise yaitu tidak bercahaya, tidak bergelombang dan foto yang tegak lurus menampilkan value kurang sesuai dengan ground truth dengan akurasi dibawah 80%
+
+Listing Methods : 
+1. Foto STNK harus jelas tanpa noise bercahaya dan tidak bergelombang
+2. Sudut kemiringan dan tegak lurus mempengaruhi OCR
+3. Model arsitektur OCR STNK untuk menampilkan value yang sesuai dengan ground truth menggunakan paddle ocr, yolo, craft dan parse
+4. Kualitas foto mempengaruhi hasil ocr ground truth

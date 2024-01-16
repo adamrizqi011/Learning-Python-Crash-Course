@@ -1,0 +1,103 @@
+check,id,Kalimat,Sentimen Manusia,Kalimat utuh,Typo,Slang Word,Mix Languange,Ambigu,Cuma kata,Terlalu Panjang,Sarkas/Satire
+TRUE,0,"Apakah aku harus membenturkan kepalamu ke tembok, agar kau menyadari kesalahan yang kau buat itu?",negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+TRUE,1,Saya ingin membandingkan dengan asuransi perusahaan lain,neutral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,2,Apakah anda bisa membantu saya menghubungkan rekening saya ke perbankan mobile?,neutral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,3,Bagaimana saya mengakses rekening bank saya secara online?,neutral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+TRUE,4,Apa kamu tidak memiliki baju lain? setiap kali kita pergi kau selalu mengenakan pakaian yang sama,negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,5,Bro woles aja bro ngopi dulu kita kerjanya lanjut nanti aja,positive,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,6,Rokum lu bagus banget bro,positive,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,7,Ingga,neutral,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+TRUE,8,Rajin sekali penghuni rumah ini sampai kaca penuh dihiasi oleh debu.,negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+TRUE,9,"Dari tadi tidak ada yang menjawab salamku, apakah telinga kalian hanya berupa pajangan saja?",negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+TRUE,10,Apotik yang ogut datangi tadi sudah close bro,positive,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+TRUE,11,Saya ingin membuka rekening bank,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,12,"Kamu sekarang buta warna ya? Sudah tahu tadi lampu merah, eh kau malah seenaknya menerobos.",negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,13,You besok sabi ga datang kerumah gweh?,neutral,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+TRUE,14,Kak kirim pap terbaru dong,positive,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+TRUE,15,Saya ingin menawarkan anda promosi asuransi jiwa,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,16,Oh sepertinya saya tidak bisa membelinya maaf namun terima kasih atas tawarannya.,negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,17,"Sudah punya squishy yang lembut dan wangi? Tidak hanya lucu, squishy imut yang satu ini juga cocok untuk menambah koleksimu!",positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,18,Harga spesial! Dapatkan promo cashback sebesar 20% jika belanja sebesar Rp150.000.,positive,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+TRUE,19,"Setiap membeli makanan minimal Rp75.000, dapatkan voucher diskon listrik sebesar Rp25.000.",positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,20,Gunakan sampo kami secara rutin minimal sekali dalam seminggu. Ketombe pun akan berangsur-angsur hilang dari kulit kepalamu,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,21,Nikmati diskon hingga 50% dari tanggal 1 sampai 10 Januari 2022. Segera dapatkan produknya selama persediaan masih ada!,neutral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,22,"Deterjen ini dibuat untuk dapat menghilangkan noda membandel pada pakaian. Cukup kucek sedikit, nodanya akan cepat menghilang!",positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,23,Dia memotong daging dengan pisau yang tumpul,neutral,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+TRUE,24,Dia datang ke sini untuk memberi tahu,neutral,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+TRUE,25,Dosen Asma sedang makan malam bersama keluarga,neutral,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+TRUE,26,"Baik Maria, alasan saya menghubungi Anda adalah untuk membicarakan bagaimana Anda bisa melindungi diri sendiri dan keluarga tercinta apabila terjadi sesuatu yang mengharuskan Anda berhenti dari pekerjaan saat ini. Artinya, Anda kehilangan sumber pendapatan setelah terjadinya hal yang tidak diinginkan. Pada dasarnya, memang tidak ada manusia yang ingin terkena musibah namun hidup sungguh tidak bisa kita prediksi. Kecelakaan atau sakit yang secara tiba-tiba mungkin mengharuskan Anda untuk beristirahat dari pekerjaan dalam hitungan minggu atau bahkan beberapa bulan. Melalui proteksi pendapatan atau income, Anda akan tetap mendapatkan pendapatan sebagaimana biasanya meski dalam kondisi tidak dapat bekerja. Proteksi tersebut memungkinkan Anda dan keluarga tersayang fokus pada proses penyembuhan tanpa harus mengkhawatirkan kondisi finansial. Apakah Anda bersedia untuk membicarakan lebih lanjut?",neutral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+TRUE,27,Aku tak heran jika dia gagal ujian. Otak dungu seperti dia tak akan mampu lulus ujian tanpa mencontek dan bantuan dari orang lain.,negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+TRUE,28,Tak sudi aku tinggal di gubuk reyot ini. Mana banyak nyamuk lagi!,negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+TRUE,29,Dia hanyalah sampah masyarakat yang tak berguna!,negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+TRUE,30,Dalam musyawarah itu menghasilkan lima kesepakatan yang harus dipatuhi bersama,positive,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,31,"Produk kami memang murah, tapi bisa bersaing dengan produk pesaing",positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,32, Dapatkan potongan biaya kirim Rp.10.000 untuk pembelian minuman Rp.50.000,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,33,Setiap pembelian minuman minimal Rp100 ribu dapatkan 1 voucher yang bisa dituker dengan 1 merchandise dari kita.,positive,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+TRUE,34,Dapatkan harga khusus dari kami jika Anda beli satu kardus kerupuk hari ini.,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,35,Gelas cantik edisi khusus ini bisa kamu dapatkan hanya dengan membeli menu paket besar senilai Rp150 ribu,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,36,Dapatkan paket perawatan kulit terlengkap dari pagi hingga sore hanya dengan biaya sebesar Rp 115.000 saja,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,37,Otakmu itu sudah bukan otak manusia lagi. Otakmu itu sudah jadi otak udang!,negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+TRUE,38,"Jika Anda tidak puas dengan produk kami, Anda akan mendapat garansi uang kembali",neutral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,39,"Jika Anda mendaftar sekarang, Anda akan mendapatkan penawaran eksklusif saat ini juga",negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,40,Saya memutuskan untuk tetap netral dalam pemilihan umum kali ini,neutral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,41,Sopan sekali pakaian yang kamu kenakan hingga aku merasa malu melihatnya,negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+TRUE,42,Saya sangat suka dengan penawaran produk asuransi tersebut saya berminat untuk bergabung,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,43,Maaf tetapi saya tidak tertarik bergabung dengan asuransi sama sekali,negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,44,"Saya disini ingin menawarkan produk asuransi kesehatan, apakah ibu memiliki waktu?",neutral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,45,"Honestly, aku kemarin pigi shopping sama bestie.",positive,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+TRUE,46,Saya menelepon untuk memberitahukan kalau perusahaan kami ingin menawarkan beberapa polis yang bisa bapak dapatkan secara gratis.,neutral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,47,"Saya sudah punya asuransi yang saya beli sekaligus saat membeli mobil. Jadi, maaf saya tidak tertarik.",negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,48, Saya lebih suka berinvestasi dalam produk asuransi yang lainnya karena saya masih punya banyak waktu dan masih muda. Rasanya masih belum butuh asuransi kesehatan.,negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,49,Saya ingin membuka rekening bank bagaimana caranya ya?,neutral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,50,"Saya sering mendengar hal buruk tentang asuransi, jadi saya takut untuk bergabung",negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,51,"Tanpa diduga, tiba-tiba dia melempar senyumnya padaku",positive,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+TRUE,52,Bicarakan Kebutuhan Asuransi Anda dengan Kami!,neutral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,53,Riana sedang pergi ke taman hiburan flora dan fauzan untuk liburan keluarga,positive,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+TRUE,54,"Oks, mau pergi kemans",positive,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,55,Anak muda yang misterius itu ternyata ingin mendaftar insuransi kesehatan,neutral,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+TRUE,56,Saya ingin mendaftar bank dan tidak ingin menggunakan perbankan mobile,neutral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,57,"Selamat sore, maaf apakah Ibu mempunyai rekening atm atau tidak?",positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,58,"Bapak mau membeli hp, tadi ke toko awal bagus bagus banget tapi buat di toko ini jelek semuanya",negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,59,"bro gua mau buat rekening baru ke bank nih, tapi sans aja gausah buru buru juga",positive,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,60,"Biaya admin untuk rekening bank tersebut tidak terlalu mahal, lumayan lah",neutral,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,61,Ferry bekerja sebagai sales bank dan menawarkan pendaftaran rekening bank dengan iming iming mendapatkan uang ,positive,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,62,Anita pergi ke bank karena ingin memperbaiki atm yang terblokir,neutral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,63,Zara ketika berjalan di sebuah mall diberhentikan sales karena dipaksa untuk mendengar penawaran,negative,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+TRUE,64,"Hendra ada task yang penting hari ini, jadi buat nasabah ini biar saya aja yang handle masalahnya",positive,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+TRUE,65,Bro lookit gua dong. Kira kira baju gua gimana hari ini?,neutral,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,66,"Eh nad, ada waktu free ga nanti malam?",neutral,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+TRUE,67,"Maaf mbak ini untuk biayanya, “Program “Happy English” tersedia dalam 3 paket, yaitu paket A dengan rincian biaya Rp. 1.800.000 untuk untuk 8 kali pertemuan, sudah termasuk seragam, modul, peralatan tulis dan snack, paket B dengan rincian biaya Rp. 4.800.000 untuk 24 kali pertemuan, sudah termasuk seragam, modul, alat tulis dan snack, terakhir ada paket C seharga Rp. 7.500.000 untuk 48 kali pertemuan sudah termasuk seragam, modul, alat tulis, snack, dan biaya outbound di akhir program",positive,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+TRUE,68,Rama sedang melakukan proses transaksi jual beli dengan calon penjual hp secara cod hari ini,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,69,Anisah menjadi teller bank dan mengalami kejadian mengerikan yaitu kekurangan uang nasabah sebesar 200.000 kemarin sore,neutral,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+TRUE,70,Aku pergi ke bank hari ini,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,71,"Tadi pagi ada sales menghubungi aku, mereka menawarkan tabungan yang sama dengan deposito",positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,72,Customer service bank membantu nasabah yang ingin membuka tabungan rekening bank ,positive,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+TRUE,73,Jingga membaca berita yang popular hari ini tentang perkembangan ekonomi indonesia ,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,74,Saya menghubungi salah satu pihak asuransi mobil untuk claim tetapi respond mereka sangat brengsek sekali,negative,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+TRUE,75,"Mas, untuk netflix harganya sebesar 42.000 bisa di transfer melalui mbanking ya",positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,76,"Asuransi itu kontraknya panjang ya, aku nggak yakin bisa komitmen selama itu",negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,77,Apa kabar?,positive,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,78,Bapak mau mendepositkan cash atau check?,positive,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,79,"Pak, uang hari ini mau dimasukkan ke rekening yang mana?",positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,80,Andi mengambil nomor antrian saat ingin mendaftar bank kemarin pagi,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,81,Kiki mendatangi bank untuk transfer ke rekening yang sama hari ini,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,82,Lydia membantu nasabah yang ingin menghubungkan ke mobile banking,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,83,Kamu tidak membantu nasabah dengan benar kemarin,negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,84,"Dia melakukan kesalahan yang paling buruk, tidak bisa dimaafkan",negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,85,Bank officer staff mendatangi nasabah yang mengalami masalah saat pembukaan rekening hari ini,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,86,Bank Officer Andre yang gemuk itu tidak bisa datang hari ini,negative,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+TRUE,87,Anjing menggongong ketika ada orang asing di depan rumah ,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,88,Satpam memberikan informasi kepada nasabah di bank,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,89,Kegagalan proyek itu karena perancangan yang tidak mantap,negative,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,90,Kegagalan mendapatkan konsumen itu karena persiapan yang tidak matang,negative,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,91,Kegagalan proyek itu terjadi karena perancangan yang tidak mantap,negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,92,Kegagalan mendapatkan konsumen itu terjadi karena persiapan yang tidak matang,negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,93,"Kau tak pernah diajari cara mengucapkan terima kasih ya? Kamu sudah dia bantu, tapi kamu malah mengabaikan dia",negative,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+TRUE,94,Tukang parkir itu apa tidak melihatku yang berada di depannya? Apa dia buta? Aku membutuhkan pertolongan,negative,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+TRUE,95,Para nasabah itu menunggu giliran untuk di panggil teller bank,neutral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,96,Karyawan perusahaan ekonomi membuat aplikasi transaksi pembayaran tahun lalu,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+TRUE,97,Dafa melakukan hiking di pegunungan rinjani dan bertemu babi hutan ganas sore hari,neutral,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+TRUE,98,"Ibu nurul, saya minta kesediaan waktu ibu untuk menjelaskan produk kami. Di bank XYZ, kami memiliki 3 produk tabungan, yaitu Tabungan Premium, Tabungan Silver dan yang satu lagi adalah dari program pemerintah yaitu Tabungan Ku. Hanya dengan Rp.300.000 Ibu Nurul sudah bisa membuka rekening Tabungan premium. Untuk setoran tunai berikutnya minimal Rp. 50.000 Ibu Nurul bisa melakukan secara online di seluruh Cabang/Capem/Kantor Kas Bank XYZ. Sedangkan untuk Tabungan Silver setoran awal min. Rp. 100.000,-, dan Tabungan Ku dengan setoran awal Rp. 20.000. Selain itu, dengan menggunakan kartu ATM Bank XYZ, Ibu Nurul dapat melakukan berbagai macam transaksi. Untuk transaksi financial, Ibu Nurul dapat melakukan tarik tunai, transfer antar bank atau antar rekening Bank XYZ. Untuk transaksi non financial, Ibu Nurul dapat melakukan cek saldo dan informasi mutasi rekening. Sekarang, Ibu Nurul tidak perlu repot untuk melakukan pembayaran tagihan bulanan, seperti tagihan listrik, telpon, premi asuransi, pembayaran polyja atau aetra. Semuanya dapat Ibu lakukan dengan menggunakan kartu ATM Bank XYZ. Dan juga Ibu Nurul dapat melakukan pembelanjaan isi ulang pulsa, pembelian tiket perjalanan, dan tiket Blitzmegaplex. Selain menggunakan ATM Bank XYZ, Ibu Nurul dapat melakukan pengecekan saldo rekening atau mutasi rekening Ibu melalui Call Center Bank XYZ 24 jam di nomor 500351. Selain itu, jika ibu Nurul mengalami kejadian yang tidak diinginkan seperti kartu ATM hilang atau tertelan, saldo terdebet atau ada permasalahan dengan rekening Ibu, Ibu Nurul juga dapat menghubungi call center Bank XYZ untuk penanganan yang lebih cepat. Jika Ibu Nurul sudah mengerti dan setuju tentang fitur dan biaya dari produk yang Ibu pilih maka silahkan untuk mengisi formulir pembukaan rekening.
+",positive,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+TRUE,99,Para peserta trekking jika menemukan bagas atau babi ganas di jalur pendakian gunung salak harap berlindung di pohon,positive,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+TRUE,100,Hutao mendaftar rekening bank dengan sales di mall,positive,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE

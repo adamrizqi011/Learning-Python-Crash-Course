@@ -1,0 +1,19 @@
+Task 2 :
+
+dari kasus stnk yang ini buat definisi :
+foto yang bagus kaya apa,kualitas yang acceptable kaya apa dan 
+hasilnya seberapa bagus hasil stnk ini.
+
+Key Notes : 
+
+Foto yang diperoleh dalam stnk ( Object )
+Tidak Terdapat cahaya (Properti)
+Tidak bergelombang (Properti)
+Foto yang tegak lurus (Properti)
+80% Membaca text STNK secara tepat menggunakan data ground truth bentuk json(Something Happens)
+
+Definisi : Foto yang diperoleh dalam stnk dari kasus tidak terdapat cahaya, tidak bergelombang dan foto yang tegak lurus 80% membaca text stnk secara tepat menggunakan acuan data ground truth.
+
+Statement : Untuk Foto yang diperoleh dalam stnk dari kasus tidak terdapat cahaya, tidak bergelombang dan foto yang tegak lurus 80% membaca text stnk secara tepat menggunakan acuan data ground truth.
+
+~ Terdapat sebuah kasus dari foto yang diperoleh dari kasus tidak terdapat cahaya, tidak bergelombang dan foto yang tegak lurus kurang dari 80% membaca text stnk secara tepat menggunakan acuan data ground truth.

@@ -1,0 +1,46 @@
+1. Python Introduction 1
+    - hello world : printing
+    - comment
+    - variable
+    - basic data type (str, int, float, bool)
+    - common data operator
+2. Python Introduction 2
+    - if-elif-else
+    - list and dictionary
+    - try-except
+    - function
+3. Python Basic : common library
+    - os
+    - time, datetime
+    - random
+    - json
+    - numpy
+    - pandas
+4. Descriptive Statistics & Charting
+    - population & sample
+    - mean, median, modus
+    - min, max, quartile, percentile
+    - standard deviation
+    - normal (bell) curve
+    - boxplot
+    - histogram
+    - other chart : pie chart, line chart, scatter plot
+5. Mathematical Statement & Hypothesis Testing
+    - mathematical statement
+    - proofing statement
+    - hypothesis testing
+    - error rate acceptance (sigma)
+    - sampling technique
+6. Machine Learning Introduction
+    - what is machine learning
+    - how machine learning work
+    - dataset : train-test-validation
+    - model example 1 : linear regression
+    - model example 2 : resnet image classification
+7. Quality Management Introduction
+    - Quality Assurance vs Quality Control
+    - ...
+    - Defining metrics
+8. Automatic Testing
+    - Python request & future session library
+    - Selenium

@@ -1,0 +1,3 @@
+ketepatan score ground truth dengan end user 
+
+paddle ocr, yolo, craft, parse

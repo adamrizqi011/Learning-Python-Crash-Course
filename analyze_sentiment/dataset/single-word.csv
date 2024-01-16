@@ -1,0 +1,117 @@
+sentence,label_final
+kenapa,neutral
+kenapa.,neutral
+kenapa?,neutral
+kenapa!,neutral
+apa,neutral
+apa.,neutral
+apa?,neutral
+apa!,neutral
+siapa,neutral
+siapa.,neutral
+siapa?,neutral
+siapa!,neutral
+bagaimana,neutral
+bagaimana.,neutral
+bagaimana?,neutral
+bagaimana!,neutral
+anjing,negative
+anjing.,negative
+anjing?,neutral
+anjing!,negative
+kambing,neutral
+kambing.,neutral
+kambing?,neutral
+kambing!,neutral
+burung,neutral
+burung.,neutral
+burung?,neutral
+burung!,neutral
+kucing,neutral
+kucing.,neutral
+kucing?,neutral
+kucing!,neutral
+sotong,neutral
+sotong.,neutral
+sotong?,neutral
+sotong!,neutral
+cumi-cumi,neutral
+cumi-cumi.,neutral
+cumi-cumi?,neutral
+cumi-cumi!,neutral
+gelas,neutral
+gelas.,neutral
+gelas?,neutral
+gelas!,neutral
+piring,neutral
+piring.,neutral
+piring?,neutral
+piring!,neutral
+piring,neutral
+piring.,neutral
+piring?,neutral
+piring!,neutral
+laptop,neutral
+laptop.,neutral
+laptop?,neutral
+laptop!,neutral
+televisi,neutral
+televisi.,neutral
+televisi?,neutral
+televisi!,neutral
+kolor,neutral
+kolor.,neutral
+kolor?,neutral
+kolor!,neutral
+bra,neutral
+bra.,neutral
+bra?,neutral
+bra!,neutral
+baju,neutral
+baju.,neutral
+baju?,neutral
+baju!,neutral
+pekerjaan,neutral
+pekerjaan.,neutral
+pekerjaan?,neutral
+pekerjaan!,neutral
+pengangguran,neutral
+pengangguran.,neutral
+pengangguran?,neutral
+pengangguran!,neutral
+hobi,neutral
+hobi.,neutral
+hobi?,neutral
+hobi!,neutral
+asuransi,neutral
+asuransi.,neutral
+asuransi?,neutral
+asuransi!,neutral
+satu,neutral
+satu.,neutral
+satu?,neutral
+satu!,neutral
+dua,neutral
+dua.,neutral
+dua?,neutral
+dua!,neutral
+tiga,neutral
+tiga.,neutral
+tiga?,neutral
+tiga!,neutral
+satu tambah satu,neutral
+satu tambah satu.,neutral
+satu tambah satu?,neutral
+satu tambah satu!,neutral
+satu kurang satu,neutral
+satu kurang satu.,neutral
+satu kurang satu?,neutral
+satu kurang satu!,neutral
+satu tambah satu sama dengan dua,neutral
+satu tambah satu sama dengan dua.,neutral
+satu tambah satu sama dengan dua?,neutral
+satu tambah satu sama dengan dua!,neutral
+satu kurang satu sama dengan nol,neutral
+satu kurang satu sama dengan nol.,neutral
+satu kurang satu sama dengan nol?,neutral
+satu kurang satu sama dengan nol!,neutral
